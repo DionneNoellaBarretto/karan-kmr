@@ -1,16 +1,31 @@
-### Hi there 👋
+![Profile Banner](./assets/banner.png)
 
-<!--
-**karan-kmr/karan-kmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi I'm Karan Kumar
 
-Here are some ideas to get you started:
+I'm an Frontend Developer working as a freelancer, Blogger and Content Creator. I specialize in working with MERN stacks and love to share my knowledge with other developers, who also want to start their journey as a web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+##### [Languages]()
+
+<img src="./assets/group-1.svg" width="800px" height="auto">
+
+##### [Libraries & Frameworks]()
+
+<img src="./assets/group-2.svg" width="800px" height="auto">
+
+##### [Tools]()
+
+<img src="./assets/group-3.svg" width="800px" height="auto">
+
+
+
+## Connect with me
+
+<p>
+<img src="./assets/social-1.svg" wdith="100px" height="30px">&emsp;
+<img src="./assets/social-2.svg" wdith="100px" height="30px">&emsp;
+<img src="./assets/social-3.svg" wdith="100px" height="30px">&emsp;
+<img src="./assets/social-4.svg" wdith="100px" height="30px">&emsp;
+<img src="./assets/social-last.svg" wdith="100px" height="30px" align="right">
+</p>
