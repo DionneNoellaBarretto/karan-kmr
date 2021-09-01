@@ -28,5 +28,5 @@ A Frontend Developer working as a freelancer, Blogger and Content Creator. I spe
 <a href="https://www.linkedin.com/in/karan-kmr/"><img src="./assets/social-2.svg" wdith="100px" height="30px"></a>&emsp;
 <a href="https://karankmr.hashnode.dev/"><img src="./assets/social-3.svg" wdith="100px" height="30px"></a>&emsp;
 <a href="https://codepen.io/karan-kmr"><img src="./assets/social-4.svg" wdith="100px" height="30px"></a>&emsp;
-<img src="./assets/social-last.svg" wdith="100px" height="30px" align="right">
+<a href="https://github.com/karan-kmr"><img src="./assets/social-last.svg" wdith="100px" height="30px" align="right"></a>
 </p>
