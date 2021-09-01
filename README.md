@@ -9,7 +9,7 @@ A Frontend Developer working as a freelancer, Blogger and Content Creator. I spe
 
 ##### [Languages]()
 
-<img src="./assets/group-1.svg" width="100%" height="auto">
+<img src="./assets/group-0.svg" width="100%" height="auto">
 
 ##### [Libraries & Frameworks]()
 
